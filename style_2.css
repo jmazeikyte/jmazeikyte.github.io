@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+color: #222;
+}
+
+body {margin: 0px; padding: 10px;}
+
+h4 {
+text-align: center;
+}
+
+.card-text1 {
+text-align: center;
+}
+
+
+body {
+  background-color:rgb(233,236,239);
+  opacity: 1;
+}
+
+
+  .nav-link {
+  color: rgb(233,236,239) !important;
+  }
+
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  .nav-item {
+  font-weight: bold;
+  font-size:1.1em;
+}
+
+.navbar-expand-sm {
+background-color: black;
+padding: .8rem;
+}
+
+.nav-link {
+font-size:1.1em !important;
+}
+
+.nav-item {
+padding-right: 30px;
+}
+
+.card {
+
+background-color:rgb(233,236,239);
+
+}
+
+.social a {
+font-size:2em;
+padding: 2rem;
+  }
+
+.fa-facebook{
+  color:#3b5998;
+  }
+
+.fa-twitter{
+  color:#00aced;
+  }
+
+  .fa-instagram{
+    color:#517fa4;
+    }
+
+    .map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
