@@ -87,3 +87,7 @@ padding: 2rem;
     width:100%;
     position:absolute;
     }
+
+    iframe{
+        border-width: 0px;
+    }
